@@ -2,7 +2,7 @@
 Kaggle competition: https://www.kaggle.com/c/nlp-getting-started/overview
 Best accuracy on test set: 78.6%, with a Random Forrest classifier.
 
-I used various naive ML approaches to see which technqiue yielded the best results. 
+I used various naive ML approaches to see which technique yielded the best results. 
 
 Preprocessing my data:
     1). Remove all non alphanumeric characters excluding the hashtag #
